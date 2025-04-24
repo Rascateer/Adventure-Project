@@ -1,6 +1,6 @@
 namespace Rascateer
 {
-    public class ProjectileManager
+    public class Settings
     {
         
     }

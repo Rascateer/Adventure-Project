@@ -1,0 +1,28 @@
+{
+    "name": "Rascateer.SurvivalAdventure",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:33661e06c33d31b4c9223810bf503247",
+        "GUID:50412cba443b6864598a8825760a47f0",
+        "GUID:f018b8a4fccbf8743bb8835c7b74eff9",
+        "GUID:04e3b51e6c413c746b38e5bd0f2138f4",
+        "GUID:d04fcd9345293454db89565bfa0108ec",
+        "GUID:a1e0d66c36e429b4185c4b1b76bc6f10",
+        "GUID:08e4679b05e4ca646bd3ad56a74ff145",
+        "GUID:4ebed583b2267fd41a8afcaaaf937d08",
+        "GUID:d73e696eac93cdf48946186241494343",
+        "GUID:f94dd6a1b8d7088498d2cffc7135067c",
+        "GUID:fd85d664b9566274b8a0d6ee5b0f600b",
+        "GUID:df4ae3f914f379a41a3837f5bed5bff5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

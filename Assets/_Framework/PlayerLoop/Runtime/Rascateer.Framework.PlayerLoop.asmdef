@@ -1,11 +1,7 @@
 {
-    "name": "Rascateer.Game",
+    "name": "Rascateer.Framework.PlayerLoop",
     "rootNamespace": "",
-    "references": [
-        "GUID:f51ebe6a0ceec4240a699833d6309b23",
-        "GUID:33661e06c33d31b4c9223810bf503247",
-        "GUID:08e4679b05e4ca646bd3ad56a74ff145"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
