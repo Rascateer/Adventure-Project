@@ -13,7 +13,7 @@ public class WorldStreamingDemo : MonoBehaviour
     
     private void Start()
     {
-        _streamer.SetWorld(m_world);
+        SetupWorld();
     }
     
     private void Update()
@@ -22,13 +22,27 @@ public class WorldStreamingDemo : MonoBehaviour
         _streamer.Update();
     }
 
+#if UNITY_EDITOR
+    [ContextMenu("Auto-Generate Region Scenes")]
+    public void AutoGenerateRegionScenes()
+    {
+        _streamer.SetWorld(m_world);
+        _streamer.GenerateEmptyRegionScenes();
+    }
+#endif
+
     [ContextMenu("SetupWorld")]
     public void SetupWorld()
     {
+        _streamer.SetWorld(m_world);
+        _streamer.SetupWorld();
     }
 
     private void OnDrawGizmos()
     {
-        Gizmos.DrawWireCube(transform.position + m_world.GameWorldSize / 2f, m_world.GameWorldSize);
+        if (m_world != null)
+        {
+            Gizmos.DrawWireCube(transform.position + m_world.GameWorldSize / 2f, m_world.GameWorldSize);
+        }
     }
 }

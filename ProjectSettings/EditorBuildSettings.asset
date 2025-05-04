@@ -14,6 +14,306 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Game/Scenes/TestLevel.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_0.unity
+    guid: e17f74430d7f0164a948fb0c81a62f26
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_0.unity
+    guid: 876f0c59b2f2818448af41e89d2b9d99
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_0.unity
+    guid: af4584e64a6621946afbc5a5c5ad80f1
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_0.unity
+    guid: baee06771962d36439b8efb0e07a5206
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_0.unity
+    guid: b7f13e03f2f502b4ea45f7cf88a8c984
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_0.unity
+    guid: d5f8da74c48d3fe40bcd2829a744192b
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_0.unity
+    guid: 6fa43f3222a012b41ba0d891793d0fca
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_0.unity
+    guid: 79f358c69655c1a4fae32955650c0342
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_0.unity
+    guid: 369eac9bb4455ce48ad5d4a4187b90d9
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_0.unity
+    guid: c196d608084508e43869e3dfd80d1705
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_1.unity
+    guid: 45ced609a4b285e4a80daadaa1a2b0b3
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_1.unity
+    guid: 58d3e2bd9bb2a304fb6b43dfc4f0d56f
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_1.unity
+    guid: 4689d0652f61c1244af4c81c74b0fea4
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_1.unity
+    guid: 832e00764f80c394b832aa493a4d1720
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_1.unity
+    guid: 5fc940a47cc34324cb700179e256abc8
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_1.unity
+    guid: 9c7da680f9005bc488d33e8364c409da
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_1.unity
+    guid: 2aae76bffcf34ea448b3f72e0da0a45d
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_1.unity
+    guid: 3ed85bf9a31ad62418833b2dc4f8c699
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_1.unity
+    guid: 3a39597cf9ac95747ba9e671de0edb94
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_1.unity
+    guid: d98678dd9c3256e4480499558e266fa8
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_2.unity
+    guid: 447cee1785658ef4483465d2730dcd67
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_2.unity
+    guid: 0f503467a4ca48a42b8a8051102c6793
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_2.unity
+    guid: 49f5569351c13644b810dd8b9be1051c
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_2.unity
+    guid: a3cbb3bf8e929aa428988887b89269be
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_2.unity
+    guid: 0b3ae1bc4e18b95449f2e698c1f8b907
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_2.unity
+    guid: 9c68bb199b22ba04e8fad730b15f1c31
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_2.unity
+    guid: 2a2befccc7ebb084293903e7cd2e7ef0
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_2.unity
+    guid: 5004d306c063f724891a2950d635064c
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_2.unity
+    guid: 44ba9abcc83b3b748a068d2b7f17ef6e
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_2.unity
+    guid: 55b7177fe153edb4ebb188e8be754f74
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_3.unity
+    guid: d3123f9bf05c7e242962a873f694fa0a
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_3.unity
+    guid: 97391d87aec45a24d8ab357335bd244b
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_3.unity
+    guid: cef03692e631b0a40bd484c9ef44dc20
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_3.unity
+    guid: 6a453cd6d113746439332cbc2bd94ea0
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_3.unity
+    guid: af19bdf716ff18d4b8df0174c2ece7f7
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_3.unity
+    guid: 1e8a5c84860ae0b4daa0fa7718697c41
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_3.unity
+    guid: c2ae1710e255c764ab82114a21fa51ce
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_3.unity
+    guid: 996f8092bd8b15548a9fc1d248fb9fd5
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_3.unity
+    guid: f00120a528faad543b0f0feec4460e93
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_3.unity
+    guid: b8f03d14caf08504589b32f923555fdc
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_4.unity
+    guid: c66635e9501d0a34a81d61f6e7744aa7
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_4.unity
+    guid: 2404c1ba8f094c54db845ff8a16e994b
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_4.unity
+    guid: 5c4c3b34bc780864c81d915554e02e51
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_4.unity
+    guid: 96651d7d6d61c094190a6b52ba366f8c
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_4.unity
+    guid: 0471c57ccb063834f8edea6dad954f1a
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_4.unity
+    guid: ad8c8210a038c7a4287b6119874f2807
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_4.unity
+    guid: 15b2a72f6721b274e9c8806d3cd395ba
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_4.unity
+    guid: c314977ee81fb0846af2105ace558217
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_4.unity
+    guid: 3a4d179d389832f46bce1d6224206811
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_4.unity
+    guid: 0226ca551782b8c47907b87f2cbbb9e0
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_5.unity
+    guid: 51fe2457f871d9e4b8c05d7d8e66cf89
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_5.unity
+    guid: 1954910baa6ec8e4896d07a05afd44a7
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_5.unity
+    guid: ff23785c3799f944aafc2e00d55a6583
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_5.unity
+    guid: f10da4497e95bad4d83889ef9b453109
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_5.unity
+    guid: 3794e969d539ac8449b6b207df4d605a
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_5.unity
+    guid: bf6f5cca8e4086a4db404d01337eddfd
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_5.unity
+    guid: 40d54d6782d4d9e4ab33343574271024
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_5.unity
+    guid: 93763ce3d524a9046bc4c4fc1a0d1bd9
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_5.unity
+    guid: 99a07fee5cff9a64ea603237d65691b4
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_5.unity
+    guid: d58ae2929c836fd4ba834ddad4e5837e
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_6.unity
+    guid: db00ac412fe11d54a8529180c23ec4aa
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_6.unity
+    guid: a2d238fb1a19e9a4f8651b4941f080e2
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_6.unity
+    guid: a34246c683dde544b8756a49fdb87390
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_6.unity
+    guid: 8f3bd925821b56a4b85090478aac39ca
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_6.unity
+    guid: 245759831f99e504bb88c8c100bfb468
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_6.unity
+    guid: e193b31b11c2bad4db1da3dc1833913b
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_6.unity
+    guid: 785091979408ec24e9419a843139ea66
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_6.unity
+    guid: e2caa6dc33bdf024198ce1d0e9679463
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_6.unity
+    guid: b288be0cd8bbaee4eb226ce858b65edc
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_6.unity
+    guid: 7dab657711388124a8e89c174a35f46f
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_7.unity
+    guid: 06a4c215fd135a54c9344482879aba85
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_7.unity
+    guid: e3aa9ca491cf33f48ab0ea59078a4225
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_7.unity
+    guid: 98e428cad0d7b6646a3bbcd5361b888c
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_7.unity
+    guid: e0f9be97b8dc30749a40c283e7bedfc4
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_7.unity
+    guid: 25b51d95ee97a5341900930d4c7ecfd2
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_7.unity
+    guid: 02b76be1976dc74439c8c741f1bc774d
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_7.unity
+    guid: c459537e58d4e754f804c4cd3bd93d32
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_7.unity
+    guid: c6ce9524104123548ab8295e9530ac94
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_7.unity
+    guid: 72f0e7a1cbd4ff14daf59cba34df74ea
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_7.unity
+    guid: 710ca1e3441e0f741b373a73243dcf79
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_8.unity
+    guid: 782c61c65cc9990419986135c4eba286
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_8.unity
+    guid: 90f1ea38e8d7e5f4c9cdf954b5d4eb44
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_8.unity
+    guid: 6d331a4af1f6a0b4aae8fa59ce6efb2f
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_8.unity
+    guid: 32c286cacad14164784cef61a38bec81
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_8.unity
+    guid: e05711d01dd8297499d3d677dee35257
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_8.unity
+    guid: 1218dac5c869c24459fac00abe352d94
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_8.unity
+    guid: 09ef596778876b649aa8c09734277e88
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_8.unity
+    guid: a9157426763283e46a678e7d9ae83ce7
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_8.unity
+    guid: af8edf56871301c489a4088edaedd713
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_8.unity
+    guid: b3269d4c885d4d34d83bf4ad5a9cd1f6
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_0_9.unity
+    guid: ed4fb99a6bd073c4099ab09184b2b684
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_1_9.unity
+    guid: 891d75dddc17e8b4e953c97404b052c6
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_2_9.unity
+    guid: d996b732531443e4298850ba368d9b96
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_3_9.unity
+    guid: 91a9424e3e897d7418ff4c7d2c2a8e7f
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_4_9.unity
+    guid: 66fa998dc2226d54f9efc4bff8593310
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_5_9.unity
+    guid: 942cce81e8d3d5e40a349269c5f42326
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_6_9.unity
+    guid: 952b12db45ead6d48a0a575b4f162c9c
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_7_9.unity
+    guid: e8dc7b76a31153343aa583af8a86c0c5
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_8_9.unity
+    guid: f577cd216b08e4945ba44ab3d1052a56
+  - enabled: 1
+    path: Assets/_Framework/WorldStreaming/Demo/Regions/EmptyRegions/Region_9_9.unity
+    guid: 45504b25141becd469ab9bad278430dc
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
